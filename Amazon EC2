@@ -10,6 +10,7 @@ Install the servers in your physical data center.
 Make all the necessary configurations.
 By comparison, with an Amazon EC2 instance you can use a virtual server to run applications in the AWS Cloud.
 
+
 You can provision and launch an Amazon EC2 instance within minutes.
 You can stop using it when you have finished running a workload.
 You pay only for the compute time you use when an instance is running, not when it is stopped or terminated.
